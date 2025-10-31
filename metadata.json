@@ -1,0 +1,5 @@
+{
+  "name": "Analisador de Garantias de Crédito",
+  "description": "Uma aplicação para analisar garantias ofertadas em propostas de crédito, calculando o percentual de respaldo do imóvel com base nos ônus e no valor de risco.",
+  "requestFramePermissions": []
+}
